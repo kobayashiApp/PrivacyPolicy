@@ -1,0 +1,17 @@
+body{
+  color: white;
+  background-color: black;
+}
+
+.title1{
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-top-color: lightgreen;
+  border-top-style: solid;
+  border-bottom-color: lightgreen;
+  border-bottom-style: solid;
+}
+
+h2.subTitle{
+  color: lightgreen;
+}
